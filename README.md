@@ -2,7 +2,7 @@
 
 ## 🧠 about me
 - cs + ai + econ @ uwaterloo
-- i love playing sports (ultimate, volleyball, table tennis, swimming)
+- i love playing sports (ultimate, volleyball, table tennis, basketball, swimming)
 - interested in AI, fintech and cloud computing
 - experience in full-stack and ML development
 - currently building an app to explore 7000 uwaterloo courses + working with semantic search
